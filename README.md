@@ -3,7 +3,7 @@ UCLA CS 32 W22
 ---
 These are my assignments from Intro to Computer Science II (Object-Oriented Programming, Data Structures & Algorithms) \
 taught by Carey Nachenberg during winter quarter of 2022.
----
+
 | Assignment | Score |
 | ----------- | ----------- |
 | [Homework 1](https://github.com/gayatri-3/CS32/tree/main/homework/hw1) | 100/100 |
