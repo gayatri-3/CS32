@@ -1,5 +1,6 @@
 # CS32
 UCLA CS 32 W22 
+---
 These are my assignments from Intro to Computer Science II (Object-Oriented Programming, Data Structures & Algorithms) \
 taught by Carey Nachenberg during winter quarter of 2022.
 ---
